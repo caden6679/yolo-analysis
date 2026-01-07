@@ -1,15 +1,14 @@
-Analysis Report - 2026-01-07 12:33:24
-Model: weights.pt | Conf: 0.5
+Analysis Report 2026-01-07 12:47:19
 ========================================
 
 --- Valid Set mAP ---
 all	97.1%
 rat	98.0%
 snake	96.3%
-valid error images: 7
+valid errors: 7
 
 --- Test Set mAP ---
 all	84.4%
 rat	97.9%
 snake	70.9%
-test error images: 12
+test errors: 9
