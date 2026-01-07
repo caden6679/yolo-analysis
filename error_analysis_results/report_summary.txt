@@ -1,0 +1,14 @@
+Analysis Report 2026-01-07 14:09:10
+========================================
+
+--- Valid Set mAP ---
+all	63.4%
+rat	88.3%
+snake	38.5%
+valid errors: 28
+
+--- Test Set mAP ---
+all	67.9%
+rat	95.0%
+snake	40.8%
+test errors: 14
